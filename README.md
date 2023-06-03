@@ -44,7 +44,7 @@ Si deseas contribuir a este proyecto, puedes seguir los siguientes pasos:
 
 ## Autor
 
-Este proyecto fue desarrollado por [Tu Nombre].
+Este proyecto fue desarrollado por Roberto Pesquera Garcia.
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
